@@ -1,0 +1,80 @@
+
+.body {
+    font-family: "Montserrat";
+}
+
+/*#nav {
+    background-color: #256D85
+}*/
+
+.container-fluid {
+    padding: 5% 15%;
+}
+
+h1 {
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+    text-color: white;
+    padding: 3%;
+}
+
+h2 {
+    font-family: "Montserrat-Bold";
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+.time {
+	margin-bottom: 0.5rem;
+	color: #0b36a8;
+	font-weight: 600;
+	font-size: 0.875rem;
+	line-height: 1.5rem;
+}
+
+h6 {
+	color: #24262a;
+	font-weight: 700;
+	font-size: 1rem;
+	line-height: 1.375rem;
+}
+
+.text-container {
+    margin: 10% 10%;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 10%;
+}
+
+/* NAVBAR */
+.nav-item {
+    padding: 0 15px;
+    font-size: "bold";
+}
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2rem;
+    font-weight: "bold";
+}
+.navbrand{
+    font-size: 4rem;
+}
+
+
+/* PROJECTS */
+.card-title {
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    font-weight: "bold";
+    padding-bottom: 20px;
+}
+
+.card-body {
+    font-family: "Ubuntu";
+}
+
+
+
